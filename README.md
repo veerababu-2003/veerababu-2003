@@ -1,57 +1,26 @@
-Veerababu Mulagalapalli - Profile 👨‍💻
-Welcome to my GitHub Portfolio! 👋 I'm Veerababu, a Software Engineer with expertise in Full Stack Development, Machine Learning, and Cloud Computing. Below is a summary of my skills, experiences, projects, and more. Feel free to explore! 🚀
+<h1 align="center">Hi 👋, I'm Veerababu Mulagalapalli</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | ML Enthusiast | Cloud Computing</h3>
 
-🧑‍💻 About Me
-I am a motivated Software Engineering graduate with hands-on experience in MERN stack, Java, DevOps, and Machine Learning. I'm passionate about building innovative software solutions, solving complex problems, and continuously learning new technologies to stay ahead in this fast-evolving field.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veerababu-2003&label=Profile%20views&color=0e75b6&style=flat" alt="veerababu-2003" /> </p>
 
-📞 Contact Me
-📍 Location: Tadepalligudem, India - 533441
-📱 Phone: +91 6304741774
-📧 Email: veerababu.mulagalapalli@sasi.ac.in
-You can also find me on:
+<p align="left"> <a href="https://twitter.com/veerababu_tech" target="blank"><img src="https://img.shields.io/twitter/follow/veerababu_tech?logo=twitter&style=for-the-badge" alt="veerababu_tech" /></a> </p>
 
-💼 LinkedIn
-🐙 GitHub Portfolio
-🛠️ Skills
-Web Development (MERN stack)
-Machine Learning Models & Deployment
-Cloud Computing (AWS, Azure)
-Backend Technologies (Node.js, Java)
-DevOps & CI/CD Pipelines
-Strong Programming skills (JavaScript, Python, C++)
-💼 Experience
-🏢 Intern - Edunet (12/2024 - Present)
-Built a chatbot using NLTK and Streamlit with machine learning for intelligent responses.
-🏢 Intern - Fortinet Community Associate, Tadepalligudem (04/2024 - 06/2024)
-Worked on developing Fortinet security solutions.
-Gained expertise in networking, firewalls, and threat management.
-🏢 Intern - Zscaler (04/2023 - 06/2023)
-Completed a cloud security internship focused on zero-trust security.
-Gained hands-on experience with Zscaler solutions.
-🎓 Education
-B.Tech - Sasi Institute of Technology and Engineering, Tadepalligudem (2026) — GPA: 8.4
-Diploma - Kakinada Institute of Engineering & Technology, Kakinada (2022) — GPA: 8.01
-10th - ZPP High School, Sankhavaram (03/2019) — GPA: 9.7
-📂 Projects
-Here are some cool projects I have worked on:
+## **About:**
+Driven software engineering student with hands-on experience in **MERN stack**, **Machine Learning**, and **Cloud Computing**. Passionate about building scalable applications and solving real-world problems using cutting-edge technologies.
 
-Chatbot Application 🤖
-A chatbot built using NLTK and Streamlit for intelligent conversation!
+🚀 Proficient in full-stack web development, focusing on the **MERN stack** for dynamic web applications. Experienced in integrating **machine learning models** to deliver intelligent, data-driven features.
 
-Techno_Skill (Ongoing) 🧠
-A tech skill-sharing platform currently in progress!
+🔍 With expertise in **cloud computing** platforms like **AWS** and **Azure**, I design and deploy robust applications. Passionate about optimizing workflows using **DevOps** tools and creating seamless integrations for continuous deployment.
 
-🏆 Certifications
-NPTEL - Introduction to Machine Learning (Silver Medal)
-MongoDB
-React JS
-Cisco Networking CCNA
-Zscaler Cloud Computing
-Fortinet Networking
-🌍 Languages
-Telugu: First Language
-English: Proficient
-Japanese: Learner
-🏅 Activities & Honors
-Social Worker 🤝
-ACM Student Member 🖥️
+💡 Committed to advancing my skills and contributing to innovative, high-impact software solutions. Let's collaborate and create something amazing!
+
+- 📝 I regularly share my projects and thoughts on [veerababu-2003.github.io](https://veerababu-2003.github.io)
+
+- 📫 How to reach me: **veerababu.mulagalapalli@sasi.ac.in**
+
+## **Follow me on:**
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/veerababu-mulagalapalli-937228294)
+[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/veerababu-2003)
+
+
