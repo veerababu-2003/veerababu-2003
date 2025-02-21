@@ -54,17 +54,17 @@ Driven software engineering student with hands-on experience in **MERN stack**, 
 ### **1. Portfolio Webpage**
 - **Description**: A responsive and interactive portfolio showcasing my skills, projects, and achievements.
 - **Tech Stack**: HTML, CSS, JavaScript, React.js
-- **Live Demo**: [Portfolio Link](https://veerababu-2003.github.io)
+- **Live Demo**: [Portfolio Link](https://veerababu-2003.github.io/resume)
 
 ### **2. Chatbot Application**
 - **Description**: An AI-powered chatbot for real-time interaction and conversation history tracking.
 - **Tech Stack**: Node.js, Express.js, React.js, MongoDB
-- **Live Demo**: [Chatbot Link](#)
+- **Live Demo**: [Chatbot Link](https://github.com/veerababu-2003/Chatbot_Application)
 
 ### **3. Machine Learning Model Deployment**
 - **Description**: Deployed a machine learning model using Flask and Docker on AWS.
 - **Tech Stack**: Python, Flask, Docker, AWS
-- **Live Demo**: [ML Deployment Link](#)
+- **Live Demo**: [ML Deployment Link](https://github.com/veerababu-2003/node-converter)
 
 ---
 
